@@ -1,3 +1,3 @@
 # GRBLS
 recurrence
-some of the mfile are not used. staet at main
+some of the mfile are not used. start at main
